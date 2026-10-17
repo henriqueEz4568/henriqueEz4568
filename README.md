@@ -47,6 +47,7 @@ I work on both sides of the stack. On the front end I build with React and Next.
 ### DevOps & Infrastructure
 - Vercel
 - Docker
+- Terraform
 - GitHub Actions
 - AWS EC2
 - AWS RDS
