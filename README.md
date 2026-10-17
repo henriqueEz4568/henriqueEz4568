@@ -1,15 +1,34 @@
 # Henrique Espinoza
 
-Software Engineer  
+Software Engineer | Full Stack Developer  
 JavaScript | TypeScript | React | Next.js | Node.js | NestJS | Clean Architecture | Payments | Linux | AWS
 
-Sou Engenheiro de Software com 2 anos e meio de experiência desenvolvendo aplicações web, APIs escaláveis e soluções backend focadas em performance, automação e integrações financeiras.
+I'm a Software Engineer with 2.5 years of experience building web applications, scalable APIs and backend solutions focused on performance, automation and financial integrations.
 
-Tenho experiência prática no desenvolvimento de microsserviços, arquiteturas backend escaláveis e aplicações modernas utilizando Node.js, NestJS, React e Next.js.
+I work on both sides of the stack. On the front end I build with React and Next.js: i18n, custom hooks, API integrations, back office panels and white label systems. On the back end I build microservices and scalable architectures with Node.js and NestJS.
 
 ---
 
-## Tecnologias
+## Projects
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **Scheduling Platform** | Dashboard to manage bookings, customers and services. i18n (EN/ES/PT), secure cookie auth through a Next.js API layer, React Hook Form + Zod, real-time notifications with socket.io. | [Live](https://scheduling-platform-front-end.vercel.app/) · [Code](https://github.com/henriqueEz4568/scheduling-platform-front-end) |
+| **Offer Gateway Panel** | White label admin panel to manage marketplace offers and WhatsApp instances. Brand name, logo and colors come from the API. Next.js 16, Tailwind, shadcn/ui. | [Live](https://offer-gateway-panel-rpen-snowy.vercel.app/login) · [Code](https://github.com/henriqueEz4568/offer-gateway-panel) |
+| **Offer Gateway API** | Backend for the panel. NestJS, MySQL, JWT (RS256), rate limiting, Docker and automated tests. | [Code](https://github.com/henriqueEz4568/offer-gateway) |
+
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- React Query
+- React Hook Form + Zod
+- i18n
 
 ### Backend
 - Node.js
@@ -18,67 +37,67 @@ Tenho experiência prática no desenvolvimento de microsserviços, arquiteturas 
 - TypeScript
 - JavaScript
 
-### Frontend
-- React
-- Next.js
-- TailwindCSS
-
-### Banco de Dados & ORM
+### Databases & ORM
 - PostgreSQL
 - MySQL
 - Sequelize
 - TypeORM
 - Prisma
 
-### DevOps & Infraestrutura
+### DevOps & Infrastructure
+- Vercel
 - Docker
 - GitHub Actions
 - AWS EC2
 - AWS RDS
 - Linux
+- ESLint
 
-### Mensageria & Processamento
+### Messaging & Processing
 - RabbitMQ
 - Webhooks
 - CRON Jobs
 
 ---
 
-## Experiência prática
+## Hands-on Experience
 
-- Implementação de autenticação 2FA
-- Implementação de webhooks para processamento de pedidos e pagamentos
-- Integração com APIs de subadquirentes de pagamento
-- Desenvolvimento de microsserviços
-- Desenvolvimento de painéis administrativos (Backoffice)
-- Criação de filas de processamento assíncrono com RabbitMQ
-- Implementação de CRON jobs para monitoramento de transações suspeitas
-- Refatoração de código legado para TypeScript utilizando Clean Architecture
-- Containerização de aplicações com Docker
-- Deploy automatizado utilizando GitHub Actions
-- Deploy e gerenciamento de aplicações em AWS EC2
-- Configuração e utilização de AWS RDS
-- Otimização de queries e performance de banco de dados
-- Implementação de exportação de relatórios Excel com filtros
-- Escrita de testes unitários, integração e E2E
+- Back office panels and white label systems
+- Front end internationalization (i18n) and custom React hooks
+- API integrations with React Query
+- Deploys on Vercel and ESLint configuration
+- Two-factor authentication (2FA)
+- Webhooks for order and payment processing
+- Integrations with payment sub-acquirer APIs
+- Microservices development
+- Asynchronous processing queues with RabbitMQ
+- CRON jobs to monitor suspicious transactions
+- Refactoring legacy code to TypeScript using Clean Architecture
+- Application containerization with Docker
+- Automated deploys with GitHub Actions
+- Deploying and managing applications on AWS EC2
+- Setting up and using AWS RDS
+- Database query and performance optimization
+- Excel report exports with filters
+- Unit, integration and E2E testing
 
 ---
 
-## Arquitetura & Engenharia de Software
+## Architecture & Software Engineering
 
-Tenho interesse constante em:
-- Arquitetura de Software
-- Sistemas escaláveis
-- Engenharia de backend
-- Performance de aplicações
-- Boas práticas de código
+I'm always interested in:
+- Software architecture
+- Scalable systems
+- Backend engineering
+- Application performance
+- Code best practices
 - Clean Architecture
-- Mensageria e processamento assíncrono
-- Infraestrutura e automação de deploy
+- Messaging and asynchronous processing
+- Infrastructure and deploy automation
 
 ---
 
-## Contato
+## Contact
 
 - LinkedIn: www.linkedin.com/in/henrique-espinoza-scioli-118251204
 - Email: espinozascioli.henrique.com@gmail.com
