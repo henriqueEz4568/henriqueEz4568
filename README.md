@@ -16,6 +16,8 @@ I work on both sides of the stack. On the front end I build with React and Next.
 | **Scheduling Platform** | Dashboard to manage bookings, customers and services. i18n (EN/ES/PT), secure cookie auth through a Next.js API layer, React Hook Form + Zod, real-time notifications with socket.io. | [Live](https://scheduling-platform-front-end.vercel.app/) · [Code](https://github.com/henriqueEz4568/scheduling-platform-front-end) |
 | **Offer Gateway Panel** | White label admin panel to manage marketplace offers and WhatsApp instances. Brand name, logo and colors come from the API. Next.js 16, Tailwind, shadcn/ui. | [Live](https://offer-gateway-panel-rpen-snowy.vercel.app/login) · [Code](https://github.com/henriqueEz4568/offer-gateway-panel) |
 | **Offer Gateway API** | Backend for the panel. NestJS, MySQL, JWT (RS256), rate limiting, Docker and automated tests. | [Code](https://github.com/henriqueEz4568/offer-gateway) |
+| **scratchdb** | Disposable test databases on real infrastructure. Terraform starts a real PostgreSQL or MySQL database (local Docker, AWS RDS, GCP Cloud SQL or Azure) and returns the connection URL. One command to create it and one to destroy it. | [Code](https://github.com/henriqueEz4568/scratchdb-live) |
+| **Email Service** | Small HTTP microservice to send emails on request, built with NestJS and Nodemailer. Works with any SMTP provider. | [Code](https://github.com/henriqueEz4568/email-service-nestjs) |
 
 ---
 
