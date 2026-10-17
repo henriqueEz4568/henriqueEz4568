@@ -3,7 +3,7 @@
 Software Engineer | Full Stack Developer  
 JavaScript | TypeScript | React | Next.js | Node.js | NestJS | Clean Architecture | Payments | Linux | AWS
 
-I'm a Software Engineer with 2.5 years of experience building web applications, scalable APIs and backend solutions focused on performance, automation and financial integrations.
+I'm a Software Engineer with 3 years of experience building web applications, scalable APIs and backend solutions focused on performance, automation and financial integrations.
 
 I work on both sides of the stack. On the front end I build with React and Next.js: i18n, custom hooks, API integrations, back office panels and white label systems. On the back end I build microservices and scalable architectures with Node.js and NestJS.
 
