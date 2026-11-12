@@ -1,7 +1,7 @@
 # Henrique Espinoza
 
 Software Engineer | Full Stack Developer  
-JavaScript | TypeScript | React | Next.js | Node.js | NestJS | Clean Architecture | Payments | Linux | AWS
+JavaScript | TypeScript | React | Next.js | Angular | Node.js | NestJS | Java | Spring Boot | Clean Architecture | Payments | Linux | AWS
 
 I'm a Software Engineer with 3 years of experience building web applications, scalable APIs and backend solutions focused on performance, automation and financial integrations.
 
@@ -26,6 +26,7 @@ I work on both sides of the stack. On the front end I build with React and Next.
 ### Frontend
 - React
 - Next.js
+- Angular
 - TypeScript
 - TailwindCSS
 - React Query
@@ -36,6 +37,8 @@ I work on both sides of the stack. On the front end I build with React and Next.
 - Node.js
 - NestJS
 - Express
+- Java
+- Spring Boot
 - TypeScript
 - JavaScript
 
